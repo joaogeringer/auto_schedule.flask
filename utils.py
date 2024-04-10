@@ -1,4 +1,4 @@
-importa psutil
+import psutil
 import datetime as dt
 
 def log_ram_usage():
